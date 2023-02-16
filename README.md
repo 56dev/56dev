@@ -1,6 +1,4 @@
-I spend too much time in front of a computer.
-I have a soon-to-be released YT channel (probably) about programming.
-Currently, I'm interested in studying AI (For once, thanks, school). I'm only 7 kyu on Codewars, however, so I should probably get my game up.
+>:)
 
 <!---
 ProgrammerSym/ProgrammerSym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
