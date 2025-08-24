@@ -1,14 +1,7 @@
 # ⭐ Hello!
 
-thank you for stopping by.
+thank you for stopping by. I am a self-taught developer based in Canada. I am currently trying to teach myself C++! I also know how to use HTML/CSS/JS and C#. 
 
-🫧main language: C++!
-
-👁️‍🗨️other languages I know how to use: C#, Python, HTML/CSS/JS.
-
-Currently working on:
-  - Learning Win32 API
-  - Reimplementing the Shell
-  - [my personal website](hci56.neocities.org)
+I am currently working on learning Win32 API and [my personal website](hci56.neocities.org).
  
 
